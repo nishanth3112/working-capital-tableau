@@ -1,7 +1,7 @@
 # Working Capital Management (2025) Tableau Visualization Project 💼
 📅 Date: Aug 2025  
 👤 Author: Nishanth Manoharan  
-🛠️ Tech Stack: Tableau, AWS RDS (SQL Server), SQL, Python, Data Visualization  
+🛠️ Tech Stack: Tableau, AWS RDS (SQL Server), SQL, Data Visualization  
 
 ---
 

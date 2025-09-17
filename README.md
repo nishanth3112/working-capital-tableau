@@ -35,10 +35,10 @@ By connecting Tableau to **AWS RDS (SQL Server)** and applying **DSO/DPO financi
 
 📸 **Tableau Dashboards**  
 ### Accounts Receivable Dashboard  
-![Accounts Receivable Dashboard](images/Accounts_Receivable.png)  
+![Accounts Receivable Dashboard](images/ARD.png)  
 
 ### Accounts Payable Dashboard  
-![Accounts Payable Dashboard](images/Accounts_Payable.png)  
+![Accounts Payable Dashboard](images/APD.png)  
 
 ---
 

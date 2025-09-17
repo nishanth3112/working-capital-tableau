@@ -42,6 +42,15 @@ By connecting Tableau to **AWS RDS (SQL Server)** and applying **DSO/DPO financi
 
 ---
 
+🌐 **Live Interactive Dashboards on Tableau Public**  
+
+- **Accounts Receivable Dashboard** 👉 [View on Tableau Public](https://public.tableau.com/app/profile/nishanth.manoharan/viz/ACD_17577025663820/Dashboard1?publish=yes)  
+- **Accounts Payable Dashboard** 👉 [View on Tableau Public](https://public.tableau.com/app/profile/nishanth.manoharan/viz/APD_17577054493020/Dashboard1?publish=yes)  
+
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/nishanth.manoharan)
+
+---
+
 🎯 **Key Features**  
 ✅ **End-to-End Financial Analysis** – AR & AP metrics, DSO/DPO, aging buckets.  
 ✅ **Real-Time Data Source** – Integrated with AWS RDS SQL Server.  

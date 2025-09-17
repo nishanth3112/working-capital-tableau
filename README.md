@@ -57,4 +57,12 @@ By connecting Tableau to **AWS RDS (SQL Server)** and applying **DSO/DPO financi
 ✅ **Interactive Tableau Dashboards** – Drilldowns, filters, and KPIs.  
 ✅ **Actionable Insights** – Improved credit risk monitoring and supplier management.  
 
----
+--- 
+⭐ **Contribute & Connect**  
+💡 If you find this repo useful, star ⭐ this repo!  
+
+🔗 LinkedIn: [Nishanth Manoharan](https://www.linkedin.com/in/nishanth-manoharan-/)  
+🔗 GitHub: [nishanth3112](https://github.com/nishanth3112)  
+
+--- 
+
